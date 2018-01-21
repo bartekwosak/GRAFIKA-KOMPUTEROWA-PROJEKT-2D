@@ -1,5 +1,5 @@
 # Grafika-Komputerowa-projekt
-*Projekt zaliczeniowy z Grafiki Komputerowej 2D.
+#Projekt zaliczeniowy z Grafiki Komputerowej 2D.
 Wczytywanie pliku o nazwie obrazek.bmp
 Zapis obrazku po edycji
 Zaznaczanie kwadratu ( Najpierw PPM w dowolnym punkcie na obrazku, a następnie LPM w punkcie znajdującym się  dalej na obydwu współrzędnych)
