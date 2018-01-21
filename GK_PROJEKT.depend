@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1516463513 source:c:\users\bart這miej osak\desktop\gk_projekt\interface.cpp
+	"interface.hpp"
+	<iostream>
+	<exception>
+
+1507838199 c:\users\bart這miej osak\desktop\gk_projekt\interface.hpp
+	<allegro.h>
+
+1507834947 source:c:\users\bart這miej osak\desktop\gk_projekt\jasnosc.cpp
+	"jasnosc.hpp"
+
+1507834852 c:\users\bart這miej osak\desktop\gk_projekt\jasnosc.hpp
+	<allegro.h>
+
+1516460461 source:c:\users\bart這miej osak\desktop\gk_projekt\main.cpp
+	<allegro.h>
+	"interface.hpp"
+	"jasnosc.hpp"
+	"zmiana.kolorow.hpp"
+
+1507889745 c:\users\bart這miej osak\desktop\gk_projekt\zmiana.kolorow.hpp
+	<allegro.h>
+
+1508223157 source:c:\users\bart這miej osak\desktop\gk_projekt\zmiana.kolorow.cpp
+	"zmiana.kolorow.hpp"
+
